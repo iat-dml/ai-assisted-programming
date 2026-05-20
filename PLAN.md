@@ -56,6 +56,9 @@ Reference materials: - [General primer to inspo](https://blog.tedivm.com/guides/
 
 #### token-maxxing
 
+## Models for specific purposes
+- [GLM-OCR bes tin class locally hostable model for OCR, particularly PDF -> Structured Markdown](https://github.com/zai-org/GLM-OCR/tree/main)
+
 ## Curated list of SKILLS and MCPs
 
 - context7
